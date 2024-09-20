@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+body{
+	font-family:Arial,sans-serif;
+	margin:0;
+	padding:20px;
+	background-color:#f4f4f4;
+}
+h1{
+	text-align:center;
+}
+ul#band{
+	list-style-type:square;
+	padding:0;
+	width:50%;
+	margin:0 auto;
+}
+ul#band li{
+padding:10px;
+	font-size:18px;
+	border-bottom:1px solid #ccc;
+}
